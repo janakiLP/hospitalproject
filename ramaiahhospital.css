@@ -1,0 +1,377 @@
+.a{
+    padding-left: 10%;
+    color:white;
+}
+.b{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: right;
+}
+
+.c{
+    margin:15px;
+    float:right;
+    text-align: center;
+    cursor: pointer; 
+    padding-left: 5%;  
+    overflow: hidden;
+    resize: cover;
+}
+.e{
+    text-align: right;
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+}
+.d{
+    color:deeppink;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+}
+.navbar-inverse{
+    
+    padding-left: 20%;
+}
+.g{
+    background-image: url(https://mir-s3-cdn-cf.behance.net/project_modules/disp/293a5816411807.5636956dc4e90.gif);
+    background-size: cover;
+    width:100%;
+    height:100%;
+    text-align: center;
+    padding-top: 20%;
+    animation: red 4s;
+}
+@keyframes red{
+100%{tarnsform: scale(1.5);}
+}
+.search{
+    height:35px;
+    width:400px;
+   
+}
+.sub{
+    height:35px;
+    background-color: chocolate;
+    color:white
+}
+.pad{
+    padding-top: 20%;
+}
+.box{
+    display: flex;
+    flex-wrap: wrap;
+    text-align: right;
+   
+    resize:cover;
+}
+.box1{
+    margin:15px;
+    float:right;
+   
+    cursor: pointer; 
+    padding-left: 7%;  
+    overflow: hidden;
+    resize: cover;
+    background-color:#00cc66;
+    height:100px;
+    width:22%;
+   
+    
+    
+   
+   
+}
+.t{
+  text-align: left;
+  padding-top: 10%;
+  color: bisque;
+  resize:cover;
+}
+.m{
+    margin:15px;
+    float:right;
+    text-align: center;
+    cursor: pointer; 
+    padding-left: 5%;  
+    overflow: hidden;
+    resize: cover; 
+}
+.n{
+   
+    flex-wrap: wrap;
+    text-align: right; 
+    display:grid;
+    resize:cover;
+}
+.container{
+    display:grid;
+    align-items: center;
+    color: 5px;
+    grid-template-columns: 0% 70% 10%;
+    width:50%;
+    resize:cover;
+
+}
+.image{
+    width:100%;
+    height:100%;
+    align-items: right;
+    resize:cover;
+
+}
+.text{
+    font-size: large;
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 20%;
+   text-align: left;
+   resize:cover;
+}
+.about{
+    color: blue;
+    text-align: center;
+    resize:cover;
+}
+.texts{
+    color:red;
+}
+.read{
+    background-color: purple;
+    color: azure;
+    text-align: center;
+    justify-content: center;
+    resize:cover;
+
+}
+.toys{
+    background-color: purple;
+    height:300px;
+    width:100%;
+    resize:cover;
+}
+.our{
+   
+    text-align: center;
+   
+    font-family: bold;
+    resize:cover;
+    color: brown;
+   
+
+}
+.toys{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+    justify-content: center;
+    align-items:center;
+    margin: 50px 0;
+    resize:cover;
+    
+}
+.parts{
+    margin:15px;
+    box-sizing:border-box;
+    float:left;
+    text-align: center;
+    cursor: pointer;
+    box-shadow:0 10px 10px black,0 10px 10px black;
+    background: white;
+    overflow: hidden;
+    resize:cover;
+   height:150px;
+   
+}
+.images1{
+    width:100%;
+    height:90px;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    resize: cover;
+}
+.read1{
+    background-color:blue;
+    color: beige;
+}
+.care{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+    justify-content: center;
+    align-items:center;
+    margin: 50px 0;
+    resize:cover;
+}
+.caring{
+    margin:15px;
+    box-sizing:border-box;
+    float:left;
+    text-align: center;
+    cursor: pointer;
+    box-shadow:0 10px 10px black,0 10px 10px black;
+    background: white;
+    overflow: hidden;
+    resize:cover;
+  
+
+}
+.hos{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 700;
+    font-size: larger;
+}
+.excellance{
+    background-color: purple;
+    height: 300px;
+    width:100%;
+}
+.clinical{
+    color:white;
+    padding-top: 5%;
+    text-align: center;
+}
+.excess1{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+    justify-content: center;
+    align-items:center;
+    margin: 50px 0;
+    resize:cover;
+
+}
+.excess{
+    margin:15px;
+    color:white;
+    float:left;
+    text-align: center;
+    cursor: pointer;
+   
+    overflow: hidden;
+    resize:cover;
+}
+.award{
+    text-align: center;
+    font-weight: 700;
+    font-style: bold;
+}
+.award1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+}
+.mother{
+    display:flex;
+    flex-wrap:wrap;
+    width:100%;
+    justify-content: center;
+    align-items:center;
+    margin: 50px 0;
+    resize:cover;
+}
+.child{
+    margin:15px;
+   
+    float:left;
+    text-align: center;
+    cursor: pointer;
+   
+    overflow: hidden;
+    resize:cover
+}
+.child1{
+    
+    margin:15px;
+   
+    float:left;
+    text-align: center;
+    cursor: pointer;
+   
+    overflow: hidden;
+    resize:cover;
+    background-color: purple;
+    color:white;
+    height: 200px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.footer{
+    background-color: blue;
+    
+   
+    height:300px;
+    width:100%;
+}
+.footer1{
+    display:flex;
+    flex-wrap: wrap;
+    margin:50px 0;
+    justify-content: center;
+    resize:cover;
+    align-items: center;
+}
+.footer2{
+    margin:15px;
+    box-sizing:border-box;
+    float:left;
+    text-align: center;
+    cursor: pointer;
+   
+    background: white;
+    overflow: hidden;
+    resize:cover;
+   height:150px;
+   font-weight: 400;
+
+}
+.foot{
+    background-color: rgb(0, 0, 17);
+    height:500px;
+    width:100%;
+    color:white;
+    display:flex;
+    flex-wrap: wrap;
+    margin:50px 0;
+    justify-content: center;
+    resize:cover;
+    align-items: center;
+    padding-right: 10%;
+}
+.but{
+    background-color: brown;
+    border-radius: 50%;
+    height:40px;
+    width:40px;
+}
+.foot2{
+    display:flex;
+    flex-wrap: wrap;
+    margin:50px 0;
+    justify-content: center;
+    resize:cover;
+    align-items: center;
+   
+}  
+.foot1{
+    margin:5px;
+   
+    float:left;
+    text-align: center;
+    cursor: pointer;
+   
+    overflow: hidden;
+    resize:cover 
+    
+}
+@media screen and (min-width:770px) {
+    body{
+        background-color: beige;
+    }
+    
+}
+@media screen and (max-width:769px) {
+    body{
+        background-color: beige;
+    }
+    
+}
